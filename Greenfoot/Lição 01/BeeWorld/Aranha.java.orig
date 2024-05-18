@@ -22,5 +22,9 @@ public class Aranha extends Actor
             //gira aleatoriamente em um intervalo de 1 a 20
             turn(Greenfoot.getRandomNumber(90)-45);
         }
+<<<<<<< HEAD
+        if (getx())
+=======
+>>>>>>> c5c3116d1a3cca3c3f2f16fb60a1e26cb7511e48
     }
 }
